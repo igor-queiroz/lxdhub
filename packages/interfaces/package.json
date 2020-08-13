@@ -8,7 +8,7 @@
         "prepare": "npm run build"
     },
     "devDependencies": {
-        "@types/node": "13.1.7"
+        "@types/node": "13.13.15"
     },
     "publishConfig": {
         "access": "public"
