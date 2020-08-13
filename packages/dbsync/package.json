@@ -17,7 +17,7 @@
         "@nestjs/common": "6.7.2",
         "@nestjs/core": "6.6.2",
         "@nestjs/testing": "6.8.3",
-        "@nestjs/typeorm": "6.2.0",
+        "@nestjs/typeorm": "6.3.4",
         "aigle": "1.14.1",
         "clime": "0.5.10",
         "fs-extra": "8.1.0",
