@@ -35,6 +35,6 @@
         "@lxdhub/interfaces": "^1.10.3",
         "@types/node": "12.12.1",
         "chalk": "2.4.2",
-        "winston": "3.2.1"
+        "winston": "3.3.3"
     }
 }
