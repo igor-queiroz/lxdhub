@@ -3925,10 +3925,10 @@ cli-width@^2.0.0:
   resolved "https://registry.yarnpkg.com/cli-width/-/cli-width-2.2.0.tgz#ff19ede8a9a5e579324147b0c11f0fbcbabed639"
   integrity sha1-/xnt6Kml5XkyQUewwR8PvLq+1jk=
 
-clime@0.5.10:
-  version "0.5.10"
-  resolved "https://registry.yarnpkg.com/clime/-/clime-0.5.10.tgz#b4862cc41fbd5d0d01bd0504b8ccb8ae639c341a"
-  integrity sha512-FpqeE23ukoEzsS7IkRNWf5ssg1BoiKBr55ra8fxrMXZuaHhsRY+gCJwMOUIrQrVEuIYAaUxzBd/2Q6kek6ecRg==
+clime@0.5.14:
+  version "0.5.14"
+  resolved "https://registry.yarnpkg.com/clime/-/clime-0.5.14.tgz#01e291895e73d1c54274db8f45d6ee44cead473b"
+  integrity sha512-+q7UDQ+EcruHtZRtd2QVs+t/jf9MpuOyhHbuHcYWvjX8jdly6AU7z3/7MiI0Kj0hzueIEX9JM7vPnkzBrG082Q==
   dependencies:
     chalk "^2.1.0"
     extendable-error "^0.1.5"

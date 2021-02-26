@@ -19,7 +19,7 @@
         "@nestjs/testing": "6.8.3",
         "@nestjs/typeorm": "6.3.4",
         "aigle": "1.14.1",
-        "clime": "0.5.10",
+        "clime": "0.5.14",
         "fs-extra": "8.1.0",
         "js-yaml": "3.13.1",
         "lodash": "4.17.20",
