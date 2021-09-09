@@ -30,7 +30,7 @@
         "lerna": "3.22.1",
         "rimraf": "3.0.0",
         "tslint": "5.20.1",
-        "typescript": "3.7.5"
+        "typescript": "3.9.10"
     },
     "dependencies": {
         "express": "4.17.1",
