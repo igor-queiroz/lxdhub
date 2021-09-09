@@ -8732,10 +8732,10 @@ node-libs-browser@^2.2.1:
     util "^0.11.0"
     vm-browserify "^1.0.1"
 
-node-lxd-client@0.1.3:
-  version "0.1.3"
-  resolved "https://registry.yarnpkg.com/node-lxd-client/-/node-lxd-client-0.1.3.tgz#de3e71606ef2e3b8ba321f2817ce367f4df137b5"
-  integrity sha512-nb7X4T4a432v2e1WLzfKMfaGeTZy+aAETubFlYW8H/jau0gXmNOXSkoNxXHMMdjEioQL4Lf/RWRiTGMyhwBzmQ==
+node-lxd-client@0.1.4:
+  version "0.1.4"
+  resolved "https://registry.yarnpkg.com/node-lxd-client/-/node-lxd-client-0.1.4.tgz#ba27f472036a6f1c91ed15568eb5c9460b1325f6"
+  integrity sha512-v7qgklX5ZH8x4zc05ZEVNK7Vxn7QxPCJ6gFcLS6JrAZ/QplXNhficIFwcpxGpEC2XUCsURS0SHjoLAw2BVUSqw==
   dependencies:
     async "^3.1.0"
     request "^2.88.0"
